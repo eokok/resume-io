@@ -1,0 +1,11 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+._*
+
+# generated demo artifact (not source)
+简历-清晰度示例.pdf
+
+# local temp
+_out/
+._cprofile/
